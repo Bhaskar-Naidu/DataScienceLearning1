@@ -1,0 +1,10 @@
+mkdir
+ls
+cd
+cd ..
+touch
+cp
+rm
+mv
+echo
+date
