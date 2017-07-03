@@ -1,2 +1,6 @@
 this is my new file test file 3
+<<<<<<< HEAD
 this is my second line
+=======
+this is my third line
+>>>>>>> dfe3ba6cca26476924d1650482d8b85bd906f69e
